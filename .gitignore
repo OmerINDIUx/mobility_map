@@ -1,0 +1,5 @@
+# Ignore data files
+data/
+
+# Ignore seattle_env folder
+seattle_env/
