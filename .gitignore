@@ -5,3 +5,11 @@ data/
 seattle_env/
 
 node_modules/
+__pycache__/
+*.py[cod]
+output/
+*.log
+*.pkl
+*.csv
+*.json
+*.tsv
